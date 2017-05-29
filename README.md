@@ -1,1 +1,1 @@
-We last stopped before Section 7 of the Rails Guide. Next up: Refactoring
+We last stopped before Section 9.1 Basic Authentication of the Rails Guide. Next up: Authentication
